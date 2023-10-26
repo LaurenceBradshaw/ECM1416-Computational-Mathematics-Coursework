@@ -13,8 +13,9 @@ are given below, where $a∈R$.
 • Part 3: $(a/4,a−1)→(a−1,a/2)$, then $(a−1,a−1)→(a/4,a/2)$.
 • Part 4: $(a−1,−a/4)→(a−1,−a/2)→(1−a,−a/2)→(1−a,−a/4)$.
 Let A be a matrix defined by
+
 $$A = \frac{1}{b} \begin{bmatrix}b & 1\\
--1 & b \end{bmatrix}
+-1 & b \end{bmatrix}$$
 
 Tasks:
 (a) Write a program that performs the transformation of points in Parts 1-4 induced by matrix A.
