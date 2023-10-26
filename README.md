@@ -17,7 +17,7 @@ are given below, where $a∈R$.
 Let A be a matrix defined by
 
 $$A = \frac{1}{b} \begin{bmatrix}b & 1\\
--1 & b \end{bmatrix}$$
+-1 & 1 \end{bmatrix}$$
 
 Tasks:
 
