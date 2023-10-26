@@ -24,3 +24,16 @@ Tasks:
 1. Write a program that performs the transformation of points in Parts 1-4 induced by matrix A.
 2. Let a = 4 and b = 3, run your program and output two figures, a figure showing the diagram produced before
 the transformation, and a figure showing the diagram after the transformation.
+
+# Question 2
+Consider the following initial value problem,
+
+$$\frac{dy}{dx} = x + \frac{y}{5}$$
+$$y(0) = -3$$
+
+Tasks:
+
+1. Write a program to apply the Euler’s method to obtain the numerical (approximated) solution, with step sizes
+of 1, 0.2, and 0.05 on the interval [0, 5], respectively.
+2. Work out the analytical (exact) results. Plot figures to compare the numerical results to the analytical results
+on the interval [0, 5]. Discuss the comparison results.
