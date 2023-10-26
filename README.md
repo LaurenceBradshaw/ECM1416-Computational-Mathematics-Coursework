@@ -20,6 +20,7 @@ $$A = \frac{1}{b} \begin{bmatrix}b & 1\\
 -1 & b \end{bmatrix}$$
 
 Tasks:
-(a) Write a program that performs the transformation of points in Parts 1-4 induced by matrix A.
-(b) Let a = 4 and b = 3, run your program and output two figures, a figure showing the diagram produced before
+
+1. Write a program that performs the transformation of points in Parts 1-4 induced by matrix A.
+2. Let a = 4 and b = 3, run your program and output two figures, a figure showing the diagram produced before
 the transformation, and a figure showing the diagram after the transformation.
