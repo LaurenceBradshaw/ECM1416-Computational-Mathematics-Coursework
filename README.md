@@ -29,6 +29,7 @@ the transformation, and a figure showing the diagram after the transformation.
 Consider the following initial value problem,
 
 $$\frac{dy}{dx} = x + \frac{y}{5}$$
+
 $$y(0) = -3$$
 
 Tasks:
