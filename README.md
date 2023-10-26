@@ -8,10 +8,12 @@ connected with a line in the order of the arrows, so for example
 *P1 → P2 → P3*, then *P4 → P1*
 means connecting *P1* to *P2* then *P2* to *P3*; and then connecting *P4* to *P1*. The coordinates of the points in each part
 are given below, where $a∈R$.
+
 • Part 1: $(a,a)→(a,−a)→(−a,−a)→(−a,a)→(a,a)$.
 • Part 2: $(1−a,a−1)→(−a/4,a−1)→(−a/4,a/2)→(1−a,a/2)→(1−a,a−1)$.
 • Part 3: $(a/4,a−1)→(a−1,a/2)$, then $(a−1,a−1)→(a/4,a/2)$.
 • Part 4: $(a−1,−a/4)→(a−1,−a/2)→(1−a,−a/2)→(1−a,−a/4)$.
+
 Let A be a matrix defined by
 
 $$A = \frac{1}{b} \begin{bmatrix}b & 1\\
